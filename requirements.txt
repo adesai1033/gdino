@@ -9,4 +9,5 @@ numpy
 opencv-python
 supervision
 pycocotools
+matplotlib 
 
